@@ -1,7 +1,7 @@
 # Flow3 Network Auto Refferal (DWYOR)
 Auto Refferal Flow3 Network
 ## Tools
-1. Register Flow3 Network Here [Flow3 Network Register](https://dashboard.flow3.tech?ref=ae4ewDGj4)
+1. Register Flow3 Network Here [Flow3 Network Register](https://dashboard.flow3.tech)
 2. Register Using Solana Wallet
 ## How to Install For Windows
 - Download [NodeJs](https://nodejs.org/en/download)
